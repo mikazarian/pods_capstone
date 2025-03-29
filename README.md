@@ -37,7 +37,6 @@ This project investigates bias and behavioral patterns in over 10,000 student-su
 ## File Structure
 
 - `Capstone_final.py` – Main code file with all analyses and visualizations
-- `/figures/` – Visual assets referenced in the project (optional)
 - `README.md` – This file
 
 ## Full Project Report
