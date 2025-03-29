@@ -40,6 +40,10 @@ This project investigates bias and behavioral patterns in over 10,000 student-su
 - `/figures/` – Visual assets referenced in the project (optional)
 - `README.md` – This file
 
+## Full Project Report
+
+For a detailed write-up of methodology, decision-making, and statistical results, see the [capstone_writeup.md](./capstone_writeup.md) file.
+
 ## Author
 
 Michael Kazarian  
